@@ -1,9 +1,5 @@
 ## Main idea
-A project where I work with the Twitter API -- allows me to interact with Twitter.  
-This is a derivation of a much older project. In the older project, I used a Twitter API to work on some basic filtering out
-commands with native Twitter methods. 
-In the updated version, I add some additional functionalities with posting. To get more comfortable with REST APIs
-
+An asynchronous twitter bot that grabs the most popping tweets, uses a Lang-based C-RNN to make tweets on them. Pretty crappy --started to make violations so I stopped it
 
 ### Project Board and Planning
 Check out my project board to see my timeline of this project. 
